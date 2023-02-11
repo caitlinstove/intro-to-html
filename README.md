@@ -1,3 +1,4 @@
 # intro-to-html
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/js-ij1dc8)![31785913166_276cf56572_k](https://user-images.githubusercontent.com/72268266/218284765-398a217c-3a6f-4632-a174-61c589afa91b.jpg)
+[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/js-ij1dc8)
+![31785913166_5beab2cfdf_w](https://user-images.githubusercontent.com/72268266/218285073-6f02e20f-dafa-446f-8d80-790cecf8d3c5.jpg)
